@@ -1,4 +1,4 @@
-[![MasterHead](https://drstc.org/wp-content/uploads/2020/05/datascience.png)]
+![MasterHead](https://drstc.org/wp-content/uploads/2020/05/datascience.png)
 
 <h1 align="center">Hi 👋, I'm Edward Oyieko</h1>
 <h3 align="center">A highly motivated, detail oriented Data Analyst who is passionate about using data to solve problems and drive positive change.</h3>
