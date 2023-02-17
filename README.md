@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **oyieko99@gmail.com**
 
-- ⚡ Fun fact **I'm fluent in German**
+- ⚡ Fun fact :**The first hard disk drive was the size of a refrigerator and could store only 5 MB of data.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
