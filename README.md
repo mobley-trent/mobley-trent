@@ -4,7 +4,6 @@
 <h3 align="center">A highly motivated, detail oriented Data Analyst who is passionate about using data to solve problems and drive positive change.</h3>
 <img align="left" alt="Coding" width="400" src="https://w7.pngwing.com/pngs/576/642/png-transparent-data-analysis-analytics-management-big-data-data-processing-business-template-text-people-thumbnail.png">
 
-<p align="left"> <a href="https://twitter.com/oyiekoeddie" target="blank"><img src="https://img.shields.io/twitter/follow/oyiekoeddie?logo=twitter&style=for-the-badge" alt="oyiekoeddie" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and AI**
 
@@ -16,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/oyiekoeddie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oyiekoeddie" height="30" width="40" /></a>
 <a href="https://kaggle.com/eddie amimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eddie amimo" height="30" width="40" /></a>
 </p>
 
