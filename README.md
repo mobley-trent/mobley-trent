@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and AI**
 
-- 💬 Ask me about **Python, NumPy, Pandas, SciPy, Scikit-learn, Keras, TensorFlow**
+- 💬 Ask me about **Python, NumPy, Pandas, SciPy, Scikit-learn, Keras, TensorFlow, JAX, Pytorch**
 
 - 📫 How to reach me **oyieko99@gmail.com**
 
