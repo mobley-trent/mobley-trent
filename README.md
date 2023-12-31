@@ -1,7 +1,7 @@
 ![MasterHead](https://drstc.org/wp-content/uploads/2020/05/datascience.png)
 
 <h1 align="center">Hi 👋, I'm Edward Oyieko</h1>
-<h3 align="center">A highly motivated, detail oriented Data Analyst who is passionate about using data to solve problems and drive positive change.</h3>
+<h3 align="center">Machine Learning Engineer | Data Scientist</h3>
 <img align="left" alt="Coding" width="400" src="https://w7.pngwing.com/pngs/576/642/png-transparent-data-analysis-analytics-management-big-data-data-processing-business-template-text-people-thumbnail.png">
 
 
