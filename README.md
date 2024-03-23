@@ -1,7 +1,7 @@
 ![MasterHead](https://drstc.org/wp-content/uploads/2020/05/datascience.png)
 
 <h1 align="center">Hi 👋, I'm Edward Oyieko</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist</h3>
+<h3 align="center">Machine Learning Engineer | Software Engineer</h3>
 
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and AI**
