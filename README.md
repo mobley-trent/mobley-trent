@@ -4,7 +4,7 @@
 <h3 align="center">Machine Learning Engineer | Software Engineer</h3>
 
 
-- 🌱 I’m currently learning **Data Science, Machine Learning and AI**
+- 🌱 I’m currently learning **Linux & Docker**
 
 - 💬 Ask me about **Python, NumPy, Pandas, SciPy, Scikit-learn, Keras, TensorFlow, JAX, Pytorch**
 
