@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on **Open Source Projects**<br>🌱 I’m currently learning **Linux** , **Docker** & **Web Application Security**<br>💬 Ask me about **Data Science & Machine Learning**
+👯 I’m looking to collaborate on **Open Source Projects**<br>🌱 I’m currently learning **Functional Programming** & **Web Application Security**<br>💬 Ask me about **Data Science & Software Engineering**
 
 
 ## 🌐 Socials:
